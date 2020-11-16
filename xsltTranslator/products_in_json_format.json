@@ -1,0 +1,32 @@
+
+
+
+{
+"items":[ 	      	{
+		"LOCNR":YLB1 ,
+		"MATNR":000000000100000012 , 
+		"GLTAB":20200826 ,
+		"AENKZ":DIRC ,
+		"SPRAS":D ,
+		"WAERS":EUR ,
+		"BSORT":6 }
+		,      	{
+		"LOCNR":YLB1 ,
+		"MATNR":000000000100000013 , 
+		"GLTAB":20200826 ,
+		"AENKZ":DIRC ,
+		"SPRAS":D ,
+		"WAERS":EUR ,
+		"BSORT":6 }
+		,      	{
+		"LOCNR":YLB1 ,
+		"MATNR":000000000100000014 , 
+		"GLTAB":20200826 ,
+		"AENKZ":DIRC ,
+		"SPRAS":D ,
+		"WAERS":EUR ,
+		"BSORT":6 }
+			
+]
+}
+
